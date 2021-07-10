@@ -1,4 +1,4 @@
----
+haileedubay868@gmail.com
 title: Reference
 intro: 'View reference documentation to learn about the data types available in the {% data variables.product.prodname_dotcom %} GraphQL API schema.'
 redirect_from:
